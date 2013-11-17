@@ -1,11 +1,13 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  height: 100%;
 }
 .navbar {
   margin-bottom: 0;
 }
 .container_wrapper {
+  height:100%;
   background-image: url("../img/bg.png");
 }
 .container > footer {
