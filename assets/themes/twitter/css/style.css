@@ -70,7 +70,11 @@ html, body {
 }
 
 /* list ======================================================== */
-ul li {
+.content ul li {
 	font-size: 14px;
 	line-height: 24px;
+	color: black;
+}
+.content h2 {
+	line-height: 36px;
 }
