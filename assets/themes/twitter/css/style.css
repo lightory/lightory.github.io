@@ -7,14 +7,16 @@ html, body {
   margin-bottom: 0;
 }
 .container_wrapper {
-  height:100%;
+  min-height:100%;
   background-image: url("../img/bg.png");
 }
 .container > footer {
   margin-top: 20px;
 }
 .container > footer p {
-  text-align: center; /* center align it with the container */
+  text-align: center;
+  color: grey;
+  font-size: 12px;
 }
 
 /* The white background content wrapper */
