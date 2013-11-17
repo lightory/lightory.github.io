@@ -5,6 +5,9 @@ html, body {
 .navbar {
   margin-bottom: 0;
 }
+.container_wrapper {
+  background-image: url("../img/bg.png");
+}
 .container > footer {
   margin-top: 20px;
 }
