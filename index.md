@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lonely Planet
+title: Home
 ---
 {% include JB/setup %}
 
