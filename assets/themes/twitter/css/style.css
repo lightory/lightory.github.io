@@ -85,3 +85,6 @@ html, body {
 .content h2 {
 	line-height: 36px;
 }
+.content h3 {
+  line-height: 180%;
+}
